@@ -1,0 +1,6 @@
+{
+  "name": "EcoSocial Sim - Strategi Bisnis & Interaksi Desa",
+  "description": "Media pembelajaran interaktif IPS SMP Kelas 7 untuk memahami kegiatan ekonomi (Produksi, Distribusi, Konsumsi) dan interaksi sosial (Asosiatif & Disosiatif).",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
